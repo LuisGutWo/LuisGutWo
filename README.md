@@ -1,4 +1,4 @@
-# 👋 Hola, mi nombre es Luis Alberto Gutierrez.
+# 👋 Hola, mi nombre es Luis Alberto Gutierrez Wong.
 ###  Soy programador Front End Junior con especialidad en React  
 ### Certificado recientemente por la Academia Desafio Latam
 #
