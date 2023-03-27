@@ -1,6 +1,6 @@
 # 👋 Hola, soy Luis Alberto Gutierrez Wong.
-###  Programador Front End - React  
-##   Trainee - Junnior
+## Programador Front End - React  
+####   Trainee - Junnior
 
 - 👀 Musico, cocinero y amante del pasar tiempo con mi familia
 - 🌱 Recientemente estudie en la academia Desafio Latam con certificacion en Css, JavaScript y React.
