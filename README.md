@@ -3,7 +3,8 @@
 ####   Trainee - Junnior
 
 - 👀 Musico, cocinero y amante del pasar tiempo con mi familia
-- 🌱 Recientemente estudie en la academia Desafio Latam con certificacion en Css, JavaScript y React.
+- 🌱 Front End certificado por la academia Desafio Latam con especialidad en Raect 
+- 🐱‍👤 Habilidades: Html, Css, JavaScript y React.
 - 💞️ Me interesa poder colaborar en proyectos de las cuales me sirvan como parctica y adquirir experiencia...
 - 📫 Me pueden agregar con mucho gusto como LuisGutWo en github, agutierrezwong@gmail.com en slack o en linkdin como Luis Alberto Gutierrez Wong...
 - 🌱 Buenas Vibras para todos!!!
