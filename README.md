@@ -1,12 +1,11 @@
 # 👋 Hola, soy Luis Alberto Gutierrez Wong.
-## Programador Front End - React  
-####   Trainee - Junnior
+## Programador Front End - React 
 
-- 👀 Musico, cocinero y amante del pasar tiempo con mi familia
+- 👀 Desarrollador Front-End React, baterista y profesional gastronomico.
 - 🌱 Front End certificado por la academia Desafio Latam con especialidad en Raect 
-- 🐱‍👤 Habilidades: Html, Css, JavaScript y React.
-- 💞️ Me interesa poder colaborar en proyectos de las cuales me sirvan como parctica y adquirir experiencia...
-- 📫 Me pueden agregar con mucho gusto como LuisGutWo en github, agutierrezwong@gmail.com en slack o en linkdin como Luis Alberto Gutierrez Wong...
+- 🐱‍👤 Habilidades: React, Html, Css, JavaScript, Bootstrap.
+- 💞️ En busca de seguir creciendo como desarrolador abierto a todo proyecto que me haga crecer y seguir desarrollando mis habilidades adquiridas.
+- 📫 agutierrezwong@gmail.com.
 - 🌱 Buenas Vibras para todos!!!
 
 <!---
