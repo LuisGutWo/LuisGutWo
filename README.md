@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Soy Luis Gutierrez Wong</h1>
+<h1 align="center">Hola 👋, Soy Luis Gutierrez Wong</h1>
 <h3 align="center">Un apasionado frontend developer de Chile</h3>
 
 - 🌱 En estos momentos estoy aprendiendo sobre el diseño UX / UI para fortalecer mi front **Figma**
