@@ -13,7 +13,7 @@
 
 - 📫 Me pueden contactar al **agutierrezwong@gmail.com**
 
-- 📄 Conoce un poco mas de mi experiencia en [https://drive.google.com/file/d/1WW0KmFkFnKYhGAXcQUYsW2xCM3shASNR/view?usp=sharing](https://drive.google.com/file/d/1WW0KmFkFnKYhGAXcQUYsW2xCM3shASNR/view?usp=sharing)
+- 📄 Conoce un poco mas de mi experiencia y trayectoria laboral en [C.V.](https://drive.google.com/file/d/1WW0KmFkFnKYhGAXcQUYsW2xCM3shASNR/view?usp=sharing)
 
 - 🌱 Buenas Vibras para todos!!! **Nos vemos...**
 
