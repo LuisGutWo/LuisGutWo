@@ -7,7 +7,7 @@
 
 - 👯 Siempre estoy dispuesto a colaborar con proyectos que me sumen experiencia.
 
-- 👨‍💻 Algunos de mis trabajos los puedes encontrar en [https://luis-gutierrez-react-portfolio.netlify.app/](https://luis-gutierrez-react-portfolio.netlify.app/)
+- 👨‍💻 Algunos de mis trabajos los puedes encontrar en [mi portafolio](https://luisgutwo-portfolio.netlify.app/)
 
 - 💬 Mi especialidad es **React** con JavaScript
 
