@@ -1,15 +1,15 @@
-<h1 align="center">Hola 👋 Hola, soy Luis Alberto Gutierrez Wong</h1>
+<h1 align="center">👋 Hola, soy Luis Alberto Gutierrez Wong</h1>
 <h3 align="center">Web developer and Designer</h3>
 
-- 🔭 Actualmente me dedico como FreeLance en mi empresa LAG media complementando como Jefe de servicios gastronomicos en Capogrossi Restaurant.
+- 🔭 Actualmente me dedico como FreeLance en mi empresa LAG media en donde me estoy haciendo mi propia experiencia en el mundo TI y complementando a su vez como Jefe de servicios gastronomicos en Capogrossi Restaurant.
 
-- 🌱 Me sigo desarrollando como Front-End y UX/UI Designer investigando en nuevos lenguajes y Frameworks.
+- 🌱 Sigo creciendo y desarrollandome como Front-End y UX/UI Designer investigando en nuevos lenguajes y Frameworks actualizandome dia a dia.
 
-- 👯 Siempre estoy dispuesto a colaborar con proyectos que me sumen experiencia.
+- 👯 Siempre estoy dispuesto a colaborar con proyectos que me sumen experiencia como tambien poder ser un aporte en proyectos que lo necesiten.
 
 - 👨‍💻 Algunos de mis trabajos los puedes encontrar en [mi portafolio](https://luisgutwo-portfolio.netlify.app/)
 
-- 💬 Mi especialidad es **React** con JavaScript
+- 💬 Me especialice es **React** con JavaScript, bootstrap, Next.js, Sass...
 
 - 📫 Me pueden contactar al **agutierrezwong@gmail.com**
 
