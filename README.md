@@ -17,7 +17,7 @@
 
 - 🌱 Buenas Vibras para todos!!! **Nos vemos...**
 
-- ![Portafolio Luis Gutierrez](https://firebasestorage.googleapis.com/v0/b/luis-gutierrez-portfolio.appspot.com/o/luis_gutierrez_portfolio_screeshot.png?alt=media&token=f3138c29-7019-421c-96f8-da750ec76f86)
+- ![Portafolio Luis Gutierrez](https://firebasestorage.googleapis.com/v0/b/login-huellitas.appspot.com/o/new_portfolio_screenshot.png?alt=media&token=0a599672-30e4-4575-9e9d-d299ea4d8293)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
