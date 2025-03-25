@@ -1,15 +1,15 @@
-<h1 align="center">Hola 👋, Soy Luis Gutierrez Wong</h1>
-<h3 align="center">Un apasionado frontend developer de Chile</h3>
+<h1 align="center">Hola 👋 Hola, soy Luis Alberto Gutierrez Wong</h1>
+<h3 align="center">Web developer and Designer</h3>
 
-- 🔭 Actualmente soy Freelance y Jefe de servicios gastronomicos en Capogrossi Restaurant.
+- 🔭 Actualmente me dedico como FreeLance en mi empresa LAG media complementando como Jefe de servicios gastronomicos en Capogrossi Restaurant.
 
-- 🌱 En estos momentos estoy aprendiendo sobre el diseño UX / UI para fortalecer mi front.
+- 🌱 Me sigo desarrollando como Front-End y UX/UI Designer investigando en nuevos lenguajes y Frameworks.
 
-- 👯 Estoy en busqueda constante de colaborar en algun proyecto que me ayude a obtener experiencia como frontend o diseñador web.
+- 👯 Siempre estoy dispuesto a colaborar con proyectos que me sumen experiencia.
 
-- 👨‍💻 Algunos de mis proyectos los puedes encontrar en [https://luis-gutierrez-react-portfolio.netlify.app/](https://luis-gutierrez-react-portfolio.netlify.app/)
+- 👨‍💻 Algunos de mis trabajos los puedes encontrar en [https://luis-gutierrez-react-portfolio.netlify.app/](https://luis-gutierrez-react-portfolio.netlify.app/)
 
-- 💬 Mi especialidad de la cual egrese de la academia es **React**
+- 💬 Mi especialidad es **React** con JavaScript
 
 - 📫 Me pueden contactar al **agutierrezwong@gmail.com**
 
