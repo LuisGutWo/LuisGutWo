@@ -1,36 +1,108 @@
-<h1 align="center">👋 Hola, soy Luis Alberto Gutierrez Wong</h1>
-<h3 align="center">Web developer and Designer</h3>
+<div align="center">
 
-- 🔭 Actualmente me dedico como FreeLance en mi empresa LAG media en donde me estoy haciendo mi propia experiencia en el mundo TI y complementando a su vez como Jefe de servicios gastronomicos en Capogrossi Restaurant.
+# 👋 Hola, soy Luis Alberto Gutiérrez Wong
 
-- 🌱 Sigo creciendo y desarrollandome como Front-End y UX/UI Designer investigando en nuevos lenguajes y Frameworks actualizandome dia a dia.
+### Frontend Developer & UX/UI Designer · Freelance @ LAG media
 
-- 👯 Siempre estoy dispuesto a colaborar con proyectos que me sumen experiencia como tambien poder ser un aporte en proyectos que lo necesiten.
+[![Portfolio](https://img.shields.io/badge/Portfolio-luisgutwo.netlify.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://luisgutwo-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Gutiérrez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgutwo)
+[![Gmail](https://img.shields.io/badge/Gmail-agutierrezwong@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agutierrezwong@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@gigiosdrummer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gigiosdrummer)
 
-- 👨‍💻 Algunos de mis trabajos los puedes encontrar en [mi portafolio](https://luisgutwo-portfolio.netlify.app/)
+</div>
 
-- 💬 Me especialice es **React** con JavaScript, bootstrap, Next.js, Sass...
+---
 
-- 📫 Me pueden contactar al **agutierrezwong@gmail.com**
+## 🙋‍♂️ Sobre mí
 
-- 📄 Conoce un poco mas de mi experiencia y trayectoria laboral en mi [C.V.](https://drive.google.com/file/d/1WW0KmFkFnKYhGAXcQUYsW2xCM3shASNR/view?usp=sharing)
+Soy un desarrollador web y diseñador freelance con sede en Chile, especializado en crear **experiencias digitales modernas y funcionales**. A través de **LAG media**, trabajo con clientes que buscan llevar sus ideas al mundo digital con identidad visual y código limpio.
 
-- 🌱 Buenas Vibras para todos!!! **Nos vemos...**
+Me apasiona el frontend: transformar diseños en interfaces atractivas, accesibles y con buenas prácticas. Siempre estoy aprendiendo algo nuevo y me gusta colaborar en proyectos que representen un desafío real.
 
-- ![Portafolio Luis Gutierrez](https://firebasestorage.googleapis.com/v0/b/login-huellitas.appspot.com/o/new_portfolio_screenshot.png?alt=media&token=0a599672-30e4-4575-9e9d-d299ea4d8293)
+- 🔭 Actualmente profundizando en **Next.js 14 y arquitectura de componentes**
+- 🌱 Aprendiendo sobre **accesibilidad web (a11y)** y **rendimiento frontend**
+- 🎵 Fuera del código: baterista y apasionado de la gastronomía
+- 💬 ¿Hablamos? Abierto a proyectos freelance y colaboraciones
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luis alberto gutierrez wong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis alberto gutierrez wong" height="30" width="40" /></a>
-<a href="https://instagram.com/albertwong4351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albertwong4351" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@gigiosdrummer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gigiosdrummer" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🛠️ Stack tecnológico
 
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<!---
-LuisGutWo/LuisGutWo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Estilos y UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Backend y Bases de datos
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Diseño y Herramientas
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisGutWo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGutWo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LuisGutWo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🚀 Proyectos destacados
+
+<div align="center">
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=LuisGutWo&repo=luisgutwo-portfolio&theme=tokyonight&hide_border=true)](https://github.com/LuisGutWo/luisgutwo-portfolio)
+
+</div>
+
+> 🔗 Visita mi [**portfolio completo**](https://luisgutwo-portfolio.netlify.app/) para ver todos mis proyectos con demos en vivo.
+
+---
+
+## 📫 ¿Trabajamos juntos?
+
+Si tienes un proyecto en mente, una idea que quieres convertir en realidad digital, o simplemente quieres conectar, ¡escríbeme!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Envíame_un_correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agutierrezwong@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Ver_Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://luisgutwo-portfolio.netlify.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+*"El buen código, como la buena música, tiene ritmo."* 🥁
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LuisGutWo.LuisGutWo&left_color=4F46E5&right_color=06B6D4)
+
+</div>
