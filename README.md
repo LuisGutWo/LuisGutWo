@@ -78,7 +78,7 @@ Me apasiona el frontend: transformar diseños en interfaces atractivas, accesibl
 
 <div align="center">
 
-(https://lagmedia.dev/)
+[**portfolio**](https://lagmedia.dev/)
 
 </div>
 
