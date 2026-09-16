@@ -61,13 +61,6 @@ Me apasiona el frontend: transformar diseños en interfaces atractivas, accesibl
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisGutWo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGutWo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=LuisGutWo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
