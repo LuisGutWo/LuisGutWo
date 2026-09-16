@@ -78,11 +78,11 @@ Me apasiona el frontend: transformar diseños en interfaces atractivas, accesibl
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=LuisGutWo&repo=luisgutwo-portfolio&theme=tokyonight&hide_border=true)](https://github.com/LuisGutWo/luisgutwo-portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=LuisGutWo&repo=luisgutwo-portfolio&theme=tokyonight&hide_border=true)](https://github.com/LuisGutWo/luisgutwo-portfolio](https://lagmedia.dev/)
 
 </div>
 
-> 🔗 Visita mi [**portfolio completo**](https://luisgutwo-portfolio.netlify.app/) para ver todos mis proyectos con demos en vivo.
+> 🔗 Visita mi [**portfolio completo**](https://lagmedia.dev/) para ver todos mis proyectos con demos en vivo.
 
 ---
 
