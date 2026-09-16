@@ -92,8 +92,8 @@ Si tienes un proyecto en mente, una idea que quieres convertir en realidad digit
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Envíame_un_correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agutierrezwong@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Ver_Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://luisgutwo-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Envíame_un_correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lagmedia.studio@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Ver_Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://lagmedia.dev/)
 
 </div>
 
